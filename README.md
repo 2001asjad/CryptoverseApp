@@ -1,5 +1,6 @@
 # Cryptoverse App.
 Cryptoverse is a fully functioning React application that has everything you need to know about cryptocurrencies, from exchange rates to news and a lot more.
+**Deployed Version here:** https://itsallcrypto.netlify.app
 
 ## Video Demostration:
 
